@@ -1,7 +1,5 @@
-
 pan integral
 fideos 
-
 agua
 manzanas
 bananas
