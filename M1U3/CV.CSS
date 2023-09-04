@@ -1,0 +1,86 @@
+ body {
+     background-color: whitesmoke;
+ }
+
+ h1 {
+     color: purple;
+     font-family: cursive;
+     text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+ }
+
+
+ h2 {
+     text-transform: uppercase;
+     color: rgb(124, 4, 124);
+     text-align: left;
+     font-family: cursive;
+ }
+
+ p {
+     font-family: cursive;
+     font-weight: bold;
+     line-height: 15px;
+ }
+
+ ol {
+     font-family: cursive;
+     font-weight: bold;
+     line-height: 15px;
+ }
+
+ ul {
+     font-family: cursive;
+     font-weight: bold;
+     line-height: 15px;
+ }
+
+ .PerfilA {
+     color: rgb(148, 48, 241);
+ }
+
+ .PerfilB {
+     color: rgb(114, 36, 187);
+ }
+
+ .PerfilC {
+     color: rgb(85, 29, 138);
+ }
+
+ .no {
+     color: black;
+ }
+
+ .si {
+     color: black;
+ }
+
+ .ai {
+     color: black
+ }
+
+ .ai2 {
+     color: black
+ }
+
+ .ai3 {
+     color: black
+ }
+
+ #caja {
+     background-color: rgb(206, 176, 235);
+     width: 360px;
+     padding: 10px;
+     border: 2px solid blueviolet;
+     box-sizing: border-box;
+     margin-left:  950px;
+     position:fixed;top:0;left;0
+     
+     
+ }
+
+ #Dipper {
+     width: 212px;
+     px;
+     border: 2px solid blueviolet;
+ }
+ 
